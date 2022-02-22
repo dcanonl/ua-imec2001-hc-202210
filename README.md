@@ -30,9 +30,9 @@ Existen muchos lenguajes de programación que pueden ser utilizados para modelar
 Este no es un curso de programación ni es específico a ningún lenguaje. El estudiante puede seleccionar el lenguaje que considere más atractivo. A lo largo del semestre se presentarán varios lenguajes señalando sus ventajas y desventajas. 
 
 1. Introducción a Julia, Pluto? Jupyter Notebooks?
-2. Graficación, visualización, ajuste de datos e Interpolación - datos experimentales? solar? 
+2. Graficación, visualización, ajuste de datos e Interpolación - datos experimentales? solar? curva de una bomba. Curva voltaje corriente de módulos solares. Algo podemos hacer acá?
 3. Raices de ecuaciones - transcalor problema transitorio?? factor de fricción de Darcy??
-4. Sistemas de ecuaciones lineales - Estática - cerchas?
+4. Sistemas de ecuaciones lineales - Estática - cerchas? punto de operación de sistema bombeo.
 5. Optimización?
 6. FFT - datos vibración? Audio? Análisis de señales?
 7. ODEs - dinámica, péndulos? 
@@ -40,7 +40,7 @@ Este no es un curso de programación ni es específico a ningún lenguaje. El es
 
 ## Evaluación
 
-Se desarrollan ocho (7) talleres a lo largo del periodo en los que se evalúa el estado de desarrollo de cada uno de los objetivos del curso:
+Se desarrollan ocho (8) talleres a lo largo del periodo en los que se evalúa el estado de desarrollo de cada uno de los objetivos del curso:
 
 * Suposiciones para simplificar sistemas y ambientes complejos
 * Escoger y aplicar modelos cuantitativos y simulaciones
