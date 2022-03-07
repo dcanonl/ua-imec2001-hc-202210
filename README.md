@@ -1,9 +1,9 @@
 <img src='./documents/uniandes.png' width='250'/>
 
 # IMEC2201 Herramientas Computacionales 
+Ciclo de Talleres <br>
 Semestre 2022-10 <br>
 Sección 1 <br>
-Ciclo de Talleres <br>
 
 ## Información Inicial
 
@@ -11,7 +11,7 @@ Ciclo de Talleres <br>
 > **Andrés Leonardo González Mancera** <br>
 > angonzal@uniandes.edu.co <br>
 > Oficina: ML-750 <br>
-> Horario Atención: Lunes y miércoles de 3:30 - 5:00pm; programación vía e-mail <br>
+> Horario Atención: Lunes y miércoles de 3:30pm - 5:00pm; programación vía e-mail <br>
 
 
 > **Nelson Andrés Salazar Peña** <br>
@@ -37,24 +37,33 @@ En este curso se desarrollarán los conocimientos y habilidades básicas para el
 
 Al finalizar, los estudiantes están capacitados para explorar y utilizar herramientas computacionales modernas para su práctica profesional y listos para contribuir al desarrollo de código abierto de proyectos modernos y novedosos.
 
-<font size=2>*Catálogo Uniandes [aquí](https://uniandes.smartcatalogiq.com//2022/Catalogo/Cursos/IMEC/2000/IMEC-2001).*</font>
-
 <span style='color:Red'>Causal vs. acausal</span>
 
 ## Objetivos Curriculares
+El objetivo del curso es desarrollar en los estudiantes las habilidades necesarias para utilizar herramientas computacionales modernas como apoyo para la solución de problemas prácticos en ingeniería.
+
+Los objetivos específicos son los siguientes:
+- Explorar herramientas computacionales así como plataformas de cómputo para la práctica de la ingeniería.
+- Desarrollar habilidades pertinentes al desarrollo e implementación de algoritmos computacionales para la solución de problemas de ingeniería.
+- Utilización de lenguajes de programación de alto nivel utilizando librerías numéricas existentes y plataformas interactivas de programación.
+- Solucionar problemas de ingeniería de gran complejidad mediante la utilización de herramientas computacionales modernas.
+
+## Metas de Aprendizaje
 Este curso aporta en el desarrollo de las siguientes **Metas de Aprendizaje**:
 
-1. Habilidad para identificar, formular y resolver problemas de ingeniería complejos mediante la aplicación de los principios de la ingeniería, la ciencia y las matemáticas.
+   1. Habilidad para identificar, formular y resolver problemas de ingeniería complejos mediante la aplicación de los principios de la ingeniería, la ciencia y las matemáticas.
 
     - 1.2. Escoge y aplica modelos cuantitativos, conceptuales y/o cualitativos para la solución de problemas mecánicos o térmicos.
-    - 1.3 Resuelve problemas de ingeniería.
+    - 1.3. Resuelve problemas de ingeniería.
 
-3. Escribe de forma clara y efectiva documentos e informes de ingeniería usando terminología y lenguaje adecuado.
+
+   3. Escribe de forma clara y efectiva documentos e informes de ingeniería usando terminología y lenguaje adecuado.
 
     - 3.1.1. Comunica sus ideas con claridad, expresándose de forma directa y utilizando el vocabulario adecuado.
     - 3.1.3. Referencia los materiales de consulta.
 
-7. Habilidad para adquirir y aplicar nuevo conocimiento según sea necesario, utilizando estrategias de aprendizaje apropiadas.
+
+   7. Habilidad para adquirir y aplicar nuevo conocimiento según sea necesario, utilizando estrategias de aprendizaje apropiadas.
 
     - 7.1. Busca e identifica fuentes relevantes de información haciendo uso de los recursos disponibles (libros, internet, journals, estándares, normas técnicas, tutoriales) para adquirir nuevo conocimiento.
     - 7.2. Aplica el conocimiento, habilidades y actitudes adquiridas de manera autónoma para resolver problemas de Ingeniería Mecánica.
@@ -71,7 +80,6 @@ Este curso aporta en el desarrollo de los siguientes resultados de apredizaje:
 * 7. Habilidad para adquirir y aplicar nuevo conocimiento según sea necesario, utilizando estrategias de aprendizaje apropiadas. 
 	* 2.4.6 Demostrar destrezas de autoeducación
 ---
-
 
 ## Contenido
 Existen muchos lenguajes de programación que pueden ser utilizados para modelar sistemas mecánicos. La decisión sobre cuál es el más adecuado para un determinado problema depende de muchos factores: experiencia previa, velocidad de implementación y ejecución, comunidades de soporte, librerías disponibles o preferencias personales, entre muchos otros. 
@@ -104,7 +112,18 @@ El curso tiene una carga académica de dos (2) créditos correspondientes a una 
 El estudiante es el responsable de su propio proceso de aprendizaje y de distribuir de manera autónoma y responsable los recursos disponibles.
 
 ## Logística
+El material del curso será publicado en Bloque Neón antes del inicio de cada clase (i.e., 2:00pm cada lunes y miércoles). Cada semana es un nuevo *capítulo* que incluye:
 
+- Lecturas asíncronas.
+- Cuadernos interactivos (*Jupyter Notebook*).
+- Ejercicios *hands-on*.
+- Taller.
+
+Los espacios síncronos de clase serán para revisión de la temática y solución de inquietudes. Los estudiantes disponen de un cuaderno interactivo (*Jupyter Notebook*) para aplicar las metodologías *hands-on* y *follow-along* a medida que se avanza en las clases. Finalizada la clase, se dispondrán estos mismos cuadernos interactivos con los ejercicios *hands-on* ya resueltos para su consulta.
+
+En Bloque Neón > Herramientas Computacionales > Foro se tiene un medio centralizado para la resolución de preguntas que son de apoyo a todo el curso. Se espera que este espacio sea colaborativo entre todos.
+
+En cuanto a los talleres, estos se habilitarán al final de cada *capítulo*, es decir, a las 3:15pm de cada miércoles. El plazo límite de entrega es hasta las 23.59h del viernes de la semana siguiente a partir de su publicación. Los talleres contarán con un ejercicio opcional que será el abrebocas del nuevo *capítulo*; su desarrollo cuenta como bonificación.
 
 ## Evaluación
 
@@ -117,11 +136,10 @@ Se desarrollan ocho (8) talleres a lo largo del periodo en los que se evalúa el
 La calificación definitiva del curso se obtendrá ponderando las calificaciones de los talleres; cada taller tiene un peso porcentual de 12.5% sobre la calificación total.
 
 ## Lineamientos
-- Todos los trabajos del curso se deben realizar de manera individual a menos que explícitamente se indique lo contrario.
+- Todos los talleres del curso se deben realizar en parejas a menos que explícitamente se indique lo contrario.
 - Los talleres se entregan en la fecha, hora y método especificados. No se aceptan trabajos tarde.
 - Las calificaciones serán de acuerdo a la matriz de calificación (disponible en Bloque Neón > Herramientas Computacionales > Docs > Matriz Calificación).
-- La fecha límite de entrega es hasta las 23.59h del viernes de la semana siguiente a partir de la
-publicación del taller.
+- La fecha límite de entrega es hasta las 23.59h del viernes de la semana siguiente a partir de la publicación del taller.
 - Tener presente las buenas prácticas de citas y referencias.
 - De acuerdo con el Reglamento General de Estudiantes de Pregrado – Universidad de los Andes, se tienen cuatro (4) días después de publicada la nota como plazo máximo para reclamos.
     > Capítulo VII, ART. 64. Todo estudiante que desee formular un reclamo sobre las calificaciones de cualquier evaluación o sobre la nota definitiva del curso deberá dirigirlo por escrito y debidamente sustentado al profesor responsable de la materia, dentro de los cuatro (4) días hábiles siguientes a aquel en que se dan a conocer las calificaciones en cuestión.
