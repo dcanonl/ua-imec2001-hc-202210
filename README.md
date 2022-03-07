@@ -1,36 +1,28 @@
-<img src='./documents/uniandes.png' width='500' />
+<img src='./documents/uniandes.png' width='250'/>
 
 # IMEC2201 Herramientas Computacionales 
-Semestre 2022-10
-Sección 1
-Ciclo de Talleres
+Semestre 2022-10 <br>
+Sección 1 <br>
+Ciclo de Talleres <br>
 
 ## Información Inicial
 
 #### Profesores
-> **Andrés Leonardo González Mancera**
+> **Andrés Leonardo González Mancera** <br>
+> angonzal@uniandes.edu.co <br>
+> Oficina: ML-750 <br>
+> Horario Atención: Lunes y miércoles de 3:30 - 5:00pm; programación vía e-mail <br>
 
-> angonzal@uniandes.edu.co
 
-> Oficina: ML-750
-
-> Horario Atención: Lunes y miércoles de 3:30 - 5:00pm; programación vía e-mail.
-<br>
-> **Nelson Andrés Salazar Peña**
-
-> na.salazar10@uniandes.edu.co
-
-> Oficina: ML-754 / ML-308A
-
-> Horario Atención: Programación vía e-mail.
-
+> **Nelson Andrés Salazar Peña** <br>
+> na.salazar10@uniandes.edu.co <br>
+> Oficina: ML-754 / ML-308A <br>
+> Horario Atención: Programación vía e-mail <br>
 
 #### Monitor
-> **Rafael Beltrán**
-
-> @uniandes.edu.co
-
-> Horario Atención: Programación vía e-mail.
+> **Rafael Beltrán** <br>
+> @uniandes.edu.co <br>
+> Horario Atención: Programación vía e-mail <br>
 
 #### Horario de Clases
 - Lunes y miércoles de 2:00pm - 3:15pm.
@@ -45,7 +37,7 @@ En este curso se desarrollarán los conocimientos y habilidades básicas para el
 
 Al finalizar, los estudiantes están capacitados para explorar y utilizar herramientas computacionales modernas para su práctica profesional y listos para contribuir al desarrollo de código abierto de proyectos modernos y novedosos.
 
-<font size=1>*Catálogo Uniandes [aquí](https://uniandes.smartcatalogiq.com//2022/Catalogo/Cursos/IMEC/2000/IMEC-2001).*</font>
+<font size=2>*Catálogo Uniandes [aquí](https://uniandes.smartcatalogiq.com//2022/Catalogo/Cursos/IMEC/2000/IMEC-2001).*</font>
 
 <span style='color:Red'>Causal vs. acausal</span>
 
