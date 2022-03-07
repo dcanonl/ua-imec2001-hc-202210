@@ -20,8 +20,8 @@ Sección 1 <br>
 > Horario Atención: Programación vía e-mail <br>
 
 #### Monitor
-> **Rafael Beltrán** <br>
-> @uniandes.edu.co <br>
+> **Rafael José Beltrán Hernández** <br>
+> rj.beltran@uniandes.edu.co <br>
 > Horario Atención: Programación vía e-mail <br>
 
 #### Horario de Clases
