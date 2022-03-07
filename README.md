@@ -87,13 +87,13 @@ Existen muchos lenguajes de programación que pueden ser utilizados para modelar
 Este no es un curso de programación ni es específico a ningún lenguaje. El estudiante puede seleccionar el lenguaje que considere más atractivo. A lo largo del semestre se presentarán varios lenguajes señalando sus ventajas y desventajas. 
 
 1. Introducción a Julia, Pluto? Jupyter Notebooks?
-2. Graficación, visualización, ajuste de datos e Interpolación - datos experimentales? solar? curva de una bomba. Curva voltaje corriente de módulos solares. Algo podemos hacer acá?
-3. Raices de ecuaciones - transcalor problema transitorio?? factor de fricción de Darcy??
-4. Sistemas de ecuaciones lineales - Estática - cerchas? 
-5. Optimización? Minimizar costo de operación de sistema de bombeo? punto de operación de sistema bombeo?
-6. FFT - datos vibración? Audio? Análisis de señales? Otro? Otros análisis? Correlación? Algo interesante?
+2. Graficación, visualización, ajuste de datos. Estadística? Incertidumbre, barras de error?
+3. Interpolación - curva de una bomba.
+4. Raices de ecuaciones - factor de fricción de Darcy??
+5. Sistemas de ecuaciones (lineales? no-lineales?) - Estática - cerchas? 
+6. Optimización? Minimizar costo de operación de sistema de bombeo? punto de operación de sistema bombeo?
 7. ODEs - dinámica, péndulos? 
-8. PDEs - difusión de calor? algo de materiales?
+8. FFT - datos de péndulos? Audio?
 
 ## Calendario
 
