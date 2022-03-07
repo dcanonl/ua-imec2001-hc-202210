@@ -53,8 +53,8 @@ Este curso aporta en el desarrollo de las siguientes **Metas de Aprendizaje**:
 
    1. Habilidad para identificar, formular y resolver problemas de ingeniería complejos mediante la aplicación de los principios de la ingeniería, la ciencia y las matemáticas.
 
-   - 1.2. Escoge y aplica modelos cuantitativos, conceptuales y/o cualitativos para la solución de problemas mecánicos o térmicos.
-   - 1.3. Resuelve problemas de ingeniería.
+       - 1.2. Escoge y aplica modelos cuantitativos, conceptuales y/o cualitativos para la solución de problemas mecánicos o térmicos.
+       - 1.3. Resuelve problemas de ingeniería.
 
 
    3. Escribe de forma clara y efectiva documentos e informes de ingeniería usando terminología y lenguaje adecuado.
