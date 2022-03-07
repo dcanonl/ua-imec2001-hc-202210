@@ -1,44 +1,52 @@
-<img src='./documents/uniandes.pdf' width='500' />
+<img src='./documents/uniandes.png' width='500' />
 
 # IMEC2201 Herramientas Computacionales 
-### Semestre 2022-10
-### Sección 1
-### Ciclo de Talleres
+Semestre 2022-10
+Sección 1
+Ciclo de Talleres
 
 ## Información Inicial
 
 #### Profesores
 > **Andrés Leonardo González Mancera**
-> angonzal@uniandes.edu.co
-> Oficina: ML-750
-> Horario Atención: Lunes y miércoles de 3:30 - 5:00pm; programación vía e-mail.
 
+> angonzal@uniandes.edu.co
+
+> Oficina: ML-750
+
+> Horario Atención: Lunes y miércoles de 3:30 - 5:00pm; programación vía e-mail.
+<br>
 > **Nelson Andrés Salazar Peña**
+
 > na.salazar10@uniandes.edu.co
+
 > Oficina: ML-754 / ML-308A
+
 > Horario Atención: Programación vía e-mail.
+
 
 #### Monitor
 > **Rafael Beltrán**
+
 > @uniandes.edu.co
+
 > Horario Atención: Programación vía e-mail.
 
 #### Horario de Clases
-- Lunes y miércoles de 2:00 - 3:15pm.
+- Lunes y miércoles de 2:00pm - 3:15pm.
 - Modalidad **virtual** (enlace disponible en Bloque Neón > Herramientas Computacionales > Sesiones > Zoom).
 
-<span style='color:White'>code:24</span>
+<span style='color:White'>xxx</span>
 
 ## Descripción del Curso
 Los sistemas de cómputo se han convertido en herramientas básicas e indispensables para la práctica de la ingeniería moderna. Este es un curso exploratorio de las **herramientas computacionales** modernas y relevantes para el modelado de sistemas y la solución de problemas en ingeniería.
 
 En este curso se desarrollarán los conocimientos y habilidades básicas para el desarrollo de modelos para varios tipos de sistemas de ingeniería. 
 
-Al finalizar el curso usted debe sentirse cómodo explorando las herramientas computacionales modernas y utilizándolas para su práctica profesional.
-
 Al finalizar, los estudiantes están capacitados para explorar y utilizar herramientas computacionales modernas para su práctica profesional y listos para contribuir al desarrollo de código abierto de proyectos modernos y novedosos.
 
-<font size=3>*Catálogo Uniandes [aquí](https://uniandes.smartcatalogiq.com//2022/Catalogo/Cursos/IMEC/2000/IMEC-2001).*</font>
+<font size=1>*Catálogo Uniandes [aquí](https://uniandes.smartcatalogiq.com//2022/Catalogo/Cursos/IMEC/2000/IMEC-2001).*</font>
+
 <span style='color:Red'>Causal vs. acausal</span>
 
 ## Objetivos Curriculares
@@ -47,9 +55,10 @@ Este curso aporta en el desarrollo de las siguientes **Metas de Aprendizaje**:
 1. Habilidad para identificar, formular y resolver problemas de ingeniería complejos mediante la aplicación de los principios de la ingeniería, la ciencia y las matemáticas.
 
     - 1.2. Escoge y aplica modelos cuantitativos, conceptuales y/o cualitativos para la solución de problemas mecánicos o térmicos.
-    - 1.3 Resuelve problemas de ingeniería 
+    - 1.3 Resuelve problemas de ingeniería.
 
-3.1. Escribe de forma clara y efectiva documentos e informes de ingeniería usando terminología y lenguaje adecuado.   
+3. Escribe de forma clara y efectiva documentos e informes de ingeniería usando terminología y lenguaje adecuado.
+
     - 3.1.1. Comunica sus ideas con claridad, expresándose de forma directa y utilizando el vocabulario adecuado.
     - 3.1.3. Referencia los materiales de consulta.
 
@@ -93,12 +102,12 @@ Este no es un curso de programación ni es específico a ningún lenguaje. El es
 ## Dedicación de Tiempo
 El curso tiene una carga académica de dos (2) créditos correspondientes a una dedicación semanal de seis (6) horas. Las horas de dedicación semanal del curso se distribuyen según la carga académica de la siguiente manera:
 
-<p style='text-align: center;'><b><font size=4>Tabla I. Métricas estadísticas para modelo computacional PVlib.</font></b></p>
+<p style='text-align: center;'><b><font size=2>Tabla I. Métricas estadísticas para modelo computacional PVlib.</font></b></p>
 
-|   Actividad            |   Horas de Dedicación   |
-|------------------------|-------------------------|
-|   Clase síncrona       |   2.5                   |
-|   Trabajo individual   |   3.5                   |
+|   Actividad              |   Horas de Dedicación     |
+|:------------------------:|:-------------------------:|
+|   Clase síncrona         |   2.5                     |
+|   Trabajo individual     |   3.5                     |
 
 El estudiante es el responsable de su propio proceso de aprendizaje y de distribuir de manera autónoma y responsable los recursos disponibles.
 
