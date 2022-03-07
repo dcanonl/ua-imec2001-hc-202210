@@ -53,8 +53,8 @@ Este curso aporta en el desarrollo de las siguientes **Metas de Aprendizaje**:
 
    1. Habilidad para identificar, formular y resolver problemas de ingeniería complejos mediante la aplicación de los principios de la ingeniería, la ciencia y las matemáticas.
 
-    - 1.2. Escoge y aplica modelos cuantitativos, conceptuales y/o cualitativos para la solución de problemas mecánicos o térmicos.
-    - 1.3. Resuelve problemas de ingeniería.
+   - 1.2. Escoge y aplica modelos cuantitativos, conceptuales y/o cualitativos para la solución de problemas mecánicos o térmicos.
+   - 1.3. Resuelve problemas de ingeniería.
 
 
    3. Escribe de forma clara y efectiva documentos e informes de ingeniería usando terminología y lenguaje adecuado.
@@ -144,7 +144,7 @@ La calificación definitiva del curso se obtendrá ponderando las calificaciones
 - De acuerdo con el Reglamento General de Estudiantes de Pregrado – Universidad de los Andes, se tienen cuatro (4) días después de publicada la nota como plazo máximo para reclamos.
     > Capítulo VII, ART. 64. Todo estudiante que desee formular un reclamo sobre las calificaciones de cualquier evaluación o sobre la nota definitiva del curso deberá dirigirlo por escrito y debidamente sustentado al profesor responsable de la materia, dentro de los cuatro (4) días hábiles siguientes a aquel en que se dan a conocer las calificaciones en cuestión.
 
-## Referencias
+## Bibliografía
 - **Noel Kalicharan (2021). *Julia - Bit by Bit*, 1st Edition, University of the West Indies, Trinidad and Tobago. Switzerland: Springer, UTiCS. ISBN 978-3-030-73936-2**.
 - Ivo Balbaert (2015). *Getting Started with Julia Programming*, 1st Edition, University of Antwerp, Belgium. UK: Packt Publishing. ISBN 978-1-78328-479-5.
 - Sandeep Nagar (2017). *Beginning Julia Programming: For Engineers and Scientists*, 1st Edition, USA. USA: Springer Apress. ISBN 978-1-4842-3171-5.
