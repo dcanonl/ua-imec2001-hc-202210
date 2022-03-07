@@ -51,19 +51,19 @@ Los objetivos específicos son los siguientes:
 ## Metas de Aprendizaje
 Este curso aporta en el desarrollo de las siguientes **Metas de Aprendizaje**:
 
- 1. Habilidad para identificar, formular y resolver problemas de ingeniería complejos mediante la aplicación de los principios de la ingeniería, la ciencia y las matemáticas.
+1. Habilidad para identificar, formular y resolver problemas de ingeniería complejos mediante la aplicación de los principios de la ingeniería, la ciencia y las matemáticas.
 
     - 1.2. Escoge y aplica modelos cuantitativos, conceptuales y/o cualitativos para la solución de problemas mecánicos o térmicos.
     - 1.3. Resuelve problemas de ingeniería.
 
 
- 3. Escribe de forma clara y efectiva documentos e informes de ingeniería usando terminología y lenguaje adecuado.
+3. Escribe de forma clara y efectiva documentos e informes de ingeniería usando terminología y lenguaje adecuado.
 
     - 3.1.1. Comunica sus ideas con claridad, expresándose de forma directa y utilizando el vocabulario adecuado.
     - 3.1.3. Referencia los materiales de consulta.
 
 
- 7. Habilidad para adquirir y aplicar nuevo conocimiento según sea necesario, utilizando estrategias de aprendizaje apropiadas.
+7. Habilidad para adquirir y aplicar nuevo conocimiento según sea necesario, utilizando estrategias de aprendizaje apropiadas.
 
     - 7.1. Busca e identifica fuentes relevantes de información haciendo uso de los recursos disponibles (libros, internet, journals, estándares, normas técnicas, tutoriales) para adquirir nuevo conocimiento.
     - 7.2. Aplica el conocimiento, habilidades y actitudes adquiridas de manera autónoma para resolver problemas de Ingeniería Mecánica.
