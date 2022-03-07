@@ -51,22 +51,22 @@ Los objetivos específicos son los siguientes:
 ## Metas de Aprendizaje
 Este curso aporta en el desarrollo de las siguientes **Metas de Aprendizaje**:
 
-1. Habilidad para identificar, formular y resolver problemas de ingeniería complejos mediante la aplicación de los principios de la ingeniería, la ciencia y las matemáticas.
+ * 1\. Habilidad para identificar, formular y resolver problemas de ingeniería complejos mediante la aplicación de los principios de la ingeniería, la ciencia y las matemáticas.
 
-    - 1.2. Escoge y aplica modelos cuantitativos, conceptuales y/o cualitativos para la solución de problemas mecánicos o térmicos.
-    - 1.3. Resuelve problemas de ingeniería.
-
-
- 3\. Escribe de forma clara y efectiva documentos e informes de ingeniería usando terminología y lenguaje adecuado.
-
-   - 3.1.1. Comunica sus ideas con claridad, expresándose de forma directa y utilizando el vocabulario adecuado.
-   - 3.1.3. Referencia los materiales de consulta.
+	- 1.2. Escoge y aplica modelos cuantitativos, conceptuales y/o cualitativos para la solución de problemas mecánicos o térmicos.
+	- 1.3. Resuelve problemas de ingeniería.
 
 
- 7\. Habilidad para adquirir y aplicar nuevo conocimiento según sea necesario, utilizando estrategias de aprendizaje apropiadas.
+* 3.1\. Escribe de forma clara y efectiva documentos e informes de ingeniería usando terminología y lenguaje adecuado.
 
-   - 7.1. Busca e identifica fuentes relevantes de información haciendo uso de los recursos disponibles (libros, internet, journals, estándares, normas técnicas, tutoriales) para adquirir nuevo conocimiento.
-   - 7.2. Aplica el conocimiento, habilidades y actitudes adquiridas de manera autónoma para resolver problemas de Ingeniería Mecánica.
+	- 3.1.1. Comunica sus ideas con claridad, expresándose de forma directa y utilizando el vocabulario adecuado.
+	- 3.1.3. Referencia los materiales de consulta.
+
+
+* 7\. Habilidad para adquirir y aplicar nuevo conocimiento según sea necesario, utilizando estrategias de aprendizaje apropiadas.
+
+	- 7.1. Busca e identifica fuentes relevantes de información haciendo uso de los recursos disponibles (libros, internet, journals, estándares, normas técnicas, tutoriales) para adquirir nuevo conocimiento.
+	- 7.2. Aplica el conocimiento, habilidades y actitudes adquiridas de manera autónoma para resolver problemas de Ingeniería Mecánica.
 
 ---
 Resultados de Aprendizaje
@@ -87,13 +87,13 @@ Existen muchos lenguajes de programación que pueden ser utilizados para modelar
 Este no es un curso de programación ni es específico a ningún lenguaje. El estudiante puede seleccionar el lenguaje que considere más atractivo. A lo largo del semestre se presentarán varios lenguajes señalando sus ventajas y desventajas. 
 
 1. Introducción a Julia, Pluto? Jupyter Notebooks?
-2. Graficación, visualización, ajuste de datos e Interpolación - datos experimentales? solar? curva de una bomba. Curva voltaje corriente de módulos solares. Algo podemos hacer acá?
-3. Raices de ecuaciones - transcalor problema transitorio?? factor de fricción de Darcy??
-4. Sistemas de ecuaciones lineales - Estática - cerchas? 
-5. Optimización? Minimizar costo de operación de sistema de bombeo? punto de operación de sistema bombeo?
-6. FFT - datos vibración? Audio? Análisis de señales? Otro? Otros análisis? Correlación? Algo interesante?
+2. Graficación, visualización, ajuste de datos. Estadística? Incertidumbre, barras de error?
+3. Interpolación - curva de una bomba.
+4. Raices de ecuaciones - factor de fricción de Darcy??
+5. Sistemas de ecuaciones (lineales? no-lineales?) - Estática - cerchas? 
+6. Optimización? Minimizar costo de operación de sistema de bombeo? punto de operación de sistema bombeo?
 7. ODEs - dinámica, péndulos? 
-8. PDEs - difusión de calor? algo de materiales?
+8. FFT - datos de péndulos? Audio?
 
 ## Calendario
 
@@ -114,16 +114,16 @@ El estudiante es el responsable de su propio proceso de aprendizaje y de distrib
 ## Logística
 El material del curso será publicado en Bloque Neón antes del inicio de cada clase (i.e., 2:00pm cada lunes y miércoles). Cada semana es un nuevo *capítulo* que incluye:
 
-- Lecturas asíncronas.
+- Lecturas.
 - Cuadernos interactivos (*Jupyter Notebook*).
-- Ejercicios *hands-on*.
+- Ejercicio *hands-on*.
 - Taller.
 
-Los espacios síncronos de clase serán para revisión de la temática y solución de inquietudes. Los estudiantes disponen de un cuaderno interactivo (*Jupyter Notebook*) para aplicar las metodologías *hands-on* y *follow-along* a medida que se avanza en las clases. Finalizada la clase, se dispondrán estos mismos cuadernos interactivos con los ejercicios *hands-on* ya resueltos para su consulta.
+Los espacios de clase serán para revisión de la temática y solución de inquietudes. Los estudiantes disponen de un cuaderno interactivo (*Jupyter Notebook*) para aplicar las metodologías *hands-on* y *follow-along* a medida que se avanza en la temática. Finalizada la clase, se dispondrán estos mismos cuadernos interactivos con los ejercicios *hands-on* resueltos para su consulta.
 
 En Bloque Neón > Herramientas Computacionales > Foro se tiene un medio centralizado para la resolución de preguntas que son de apoyo a todo el curso. Se espera que este espacio sea colaborativo entre todos.
 
-En cuanto a los talleres, estos se habilitarán al final de cada *capítulo*, es decir, a las 3:15pm de cada miércoles. El plazo límite de entrega es hasta las 23.59h del viernes de la semana siguiente a partir de su publicación. Los talleres contarán con un ejercicio opcional que será el abrebocas del nuevo *capítulo*; su desarrollo cuenta como bonificación.
+En cuanto a los talleres, estos se habilitarán al final de cada *capítulo*, es decir, a las 3:15pm de cada miércoles. El plazo límite de entrega es hasta las 23.59h del viernes de la semana siguiente a partir de su publicación.
 
 ## Evaluación
 
