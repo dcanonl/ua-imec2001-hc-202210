@@ -88,9 +88,9 @@ Este no es un curso de programación ni es específico a ningún lenguaje. El es
 
 1. Introducción a Julia, Pluto? Jupyter Notebooks?
 2. Graficación, visualización, ajuste de datos. Estadística? Incertidumbre, barras de error?
-3. Interpolación - curva de una bomba.
-4. Raices de ecuaciones - factor de fricción de Darcy??
-5. Sistemas de ecuaciones (lineales? no-lineales?) - Estática - cerchas? 
+3. Sistemas de ecuaciones (lineales? no-lineales?) - Estática - cerchas? 
+4. Interpolación - curva de una bomba.
+5. Raices de ecuaciones - factor de fricción de Darcy??
 6. Optimización? Minimizar costo de operación de sistema de bombeo? punto de operación de sistema bombeo?
 7. ODEs - dinámica, péndulos? 
 8. FFT - datos de péndulos? Audio?
