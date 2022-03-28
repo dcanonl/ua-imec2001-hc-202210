@@ -26,27 +26,23 @@ Sección 1 <br>
 
 #### Horario de Clases
 - Lunes y miércoles de 2:00pm - 3:15pm.
-- Modalidad **virtual** (enlace disponible en Bloque Neón > Herramientas Computacionales > Sesiones > Zoom).
-
-<span style='color:White'>xxx</span>
+- Modalidad **virtual** (enlace disponible en Bloque Neón > Herramientas Computacionales > Contenido > Sesiones y Grabaciones > Zoom).
 
 ## Descripción del Curso
 Los sistemas de cómputo se han convertido en herramientas básicas e indispensables para la práctica de la ingeniería moderna. Este es un curso exploratorio de las **herramientas computacionales** modernas y relevantes para el modelado de sistemas y la solución de problemas en ingeniería.
 
-En este curso se desarrollarán los conocimientos y habilidades básicas para el desarrollo de modelos para varios tipos de sistemas de ingeniería. 
+En este curso se desarrollarán los conocimientos y habilidades básicas para la aplicación de modelos para varios tipos de sistemas de ingeniería. 
 
-Al finalizar, los estudiantes están capacitados para explorar y utilizar herramientas computacionales modernas para su práctica profesional y listos para contribuir al desarrollo de código abierto de proyectos modernos y novedosos.
-
-<span style='color:Red'>Causal vs. acausal</span>
+Al finalizar, los estudiantes están capacitados para explorar y utilizar herramientas computacionales modernas para su práctica profesional y listos para contribuir al desarrollo de código abierto de proyectos novedosos.
 
 ## Objetivos Curriculares
 El objetivo del curso es desarrollar en los estudiantes las habilidades necesarias para utilizar herramientas computacionales modernas como apoyo para la solución de problemas prácticos en ingeniería.
 
 Los objetivos específicos son los siguientes:
 - Explorar herramientas computacionales así como plataformas de cómputo para la práctica de la ingeniería.
-- Desarrollar habilidades pertinentes al desarrollo e implementación de algoritmos computacionales para la solución de problemas de ingeniería.
+- Desarrollar habilidades pertinentes a la implementación de algoritmos computacionales para la solución de problemas de ingeniería.
 - Utilización de lenguajes de programación de alto nivel utilizando librerías numéricas existentes y plataformas interactivas de programación.
-- Solucionar problemas de ingeniería de gran complejidad mediante la utilización de herramientas computacionales modernas.
+- Solucionar problemas de ingeniería mediante la utilización de herramientas computacionales modernas.
 
 ## Metas de Aprendizaje
 Este curso aporta en el desarrollo de las siguientes **Metas de Aprendizaje**:
@@ -68,20 +64,8 @@ Este curso aporta en el desarrollo de las siguientes **Metas de Aprendizaje**:
 	- 7.1. Busca e identifica fuentes relevantes de información haciendo uso de los recursos disponibles (libros, internet, journals, estándares, normas técnicas, tutoriales) para adquirir nuevo conocimiento.
 	- 7.2. Aplica el conocimiento, habilidades y actitudes adquiridas de manera autónoma para resolver problemas de Ingeniería Mecánica.
 
----
-Resultados de Aprendizaje
-
-Este curso aporta en el desarrollo de los siguientes resultados de apredizaje:
-
-* 1. Habilidad para identificar, formular y resolver problemas de ingeniería complejos mediante la aplicación de los principios de la ingeniería, la ciencia y las matemáticas.
-	* 2.1.2 Modelamiento
-		* Suposiciones para simplificar sistemas y ambientes complejos
-		* Escoger y aplicar modelos cuantitativos y simulaciones
-* 7. Habilidad para adquirir y aplicar nuevo conocimiento según sea necesario, utilizando estrategias de aprendizaje apropiadas. 
-	* 2.4.6 Demostrar destrezas de autoeducación
----
-
 ## Contenido
+<<<<<<< Updated upstream
 Existen muchos lenguajes de programación que pueden ser utilizados para modelar sistemas mecánicos. La decisión sobre cuál es el más adecuado para un determinado problema depende de muchos factores: experiencia previa, velocidad de implementación y ejecución, comunidades de soporte, librerías disponibles o preferencias personales, entre muchos otros. 
 
 Este no es un curso de programación ni es específico a ningún lenguaje. El estudiante puede seleccionar el lenguaje que considere más atractivo. A lo largo del semestre se presentarán varios lenguajes señalando sus ventajas y desventajas. 
@@ -98,16 +82,33 @@ Este no es un curso de programación ni es específico a ningún lenguaje. El es
 ## Calendario
 
 
+=======
+Existen muchos lenguajes de programación que pueden ser utilizados para modelar sistemas mecánicos. Aunque la decisión sobre cuál es el más adecuado para un determinado problema depende de muchos factores, en el curso se manejará [Julia](https://julialang.org/) por su velocidad de implementación y ejecución, comunidades de soporte, librerías disponibles, entre otros. Además, la experiencia previa de [Python](https://github.com/JuliaPy/PyCall.jl), [R](https://cran.r-project.org/web/packages/JuliaCall/readme/README.html]) y [MATLAB](https://github.com/JuliaInterop/MATLAB.jl) serán de utilidad pues Julia permite una fácil integración con estos y otros más lenguajes de programación.
+
+**Nota:** Este no es un curso de programación ni es específico a ningún lenguaje. Aunque el enfoque está en Julia, el estudiante puede seleccionar el lenguaje que considere más atractivo.
+
+|Semana | Fecha          | Temática (Aplicación)                                                                   |
+|:-----:|:---------------|:----------------------------------------------------------------------------------------|
+|   1   | 28/Mar — 1/Abr | Introducción a Julia y Jupyter Notebooks                                                |
+|   2   | 4  — 8/Abr     | Gráficas y visualización (ajuste de datos, estadística, incertidumbre, barras de error) |
+|   -   | 11 — 14/Abr    | Semana Santa                                                                            |
+|   3   | 18 — 22/Abr    | Interpolación (curva de una bomba)                                                      |
+|   4   | 25 — 29/Abr    | Raíces de ecuaciones (factor de fricción de Darcy)                                      |
+|   5   | 2 — 6/May      | Sistemas de ecuaciones (estática, e.g., cerchas)                                        |
+|   6   | 9 — 13/May     | Optimización (Minimizar costo de operación de sistema de bombeo)                        |
+|   7   | 16 — 20/May    | ODEs (dinámica, e.g., péndulos)                                                         |
+|   8   | 23 — 27/May    | FFT (señal a partir de datos de péndulos y audio)                                       |
+>>>>>>> Stashed changes
 
 ## Dedicación de Tiempo
-El curso tiene una carga académica de dos (2) créditos correspondientes a una dedicación semanal de seis (6) horas. Las horas de dedicación semanal del curso se distribuyen según la carga académica de la siguiente manera:
+El curso tiene una carga académica de dos (2) créditos correspondientes a una dedicación semanal de doce (12) horas. Las horas de dedicación semanal del curso se distribuyen según la carga académica de la siguiente manera:
 
-<p style='text-align: center;'><b><font size=2>Tabla I. Métricas estadísticas para modelo computacional PVlib.</font></b></p>
+<p style='text-align: center;'><b><font size=2>Tabla I. Dedicación semanal del curso.</font></b></p>
 
 |   Actividad              |   Horas de Dedicación     |
 |:------------------------:|:-------------------------:|
-|   Clase síncrona         |   2.5                     |
-|   Trabajo individual     |   3.5                     |
+|   Clase síncrona         |   3.5                     |
+|   Trabajo individual     |   9.5                     |
 
 El estudiante es el responsable de su propio proceso de aprendizaje y de distribuir de manera autónoma y responsable los recursos disponibles.
 
@@ -116,12 +117,11 @@ El material del curso será publicado en Bloque Neón antes del inicio de cada c
 
 - Lecturas.
 - Cuadernos interactivos (*Jupyter Notebook*).
-- Ejercicio *hands-on*.
 - Taller.
 
-Los espacios de clase serán para revisión de la temática y solución de inquietudes. Los estudiantes disponen de un cuaderno interactivo (*Jupyter Notebook*) para aplicar las metodologías *hands-on* y *follow-along* a medida que se avanza en la temática. Finalizada la clase, se dispondrán estos mismos cuadernos interactivos con los ejercicios *hands-on* resueltos para su consulta.
+Los espacios de clase serán para revisión de la temática y solución de inquietudes. Los estudiantes disponen de un cuaderno interactivo (*Jupyter Notebook*) para aplicar las metodologías *hands-on* a medida que se avanza en la temática. Finalizada la clase, se dispondrán estos mismos cuadernos interactivos con los ejercicios *hands-on* resueltos para su consulta.
 
-En Bloque Neón > Herramientas Computacionales > Foro se tiene un medio centralizado para la resolución de preguntas que son de apoyo a todo el curso. Se espera que este espacio sea colaborativo entre todos.
+En Bloque Neón > Herramientas Computacionales > Foros se tienen medios centralizados por capítulo para la resolución de preguntas que son de apoyo al curso. Se espera que este espacio sea colaborativo entre todos.
 
 En cuanto a los talleres, estos se habilitarán al final de cada *capítulo*, es decir, a las 3:15pm de cada miércoles. El plazo límite de entrega es hasta las 23.59h del viernes de la semana siguiente a partir de su publicación.
 
@@ -138,7 +138,6 @@ La calificación definitiva del curso se obtendrá ponderando las calificaciones
 ## Lineamientos
 - Todos los talleres del curso se deben realizar en parejas a menos que explícitamente se indique lo contrario.
 - Los talleres se entregan en la fecha, hora y método especificados. No se aceptan trabajos tarde.
-- Las calificaciones serán de acuerdo a la matriz de calificación (disponible en Bloque Neón > Herramientas Computacionales > Docs > Matriz Calificación).
 - La fecha límite de entrega es hasta las 23.59h del viernes de la semana siguiente a partir de la publicación del taller.
 - Tener presente las buenas prácticas de citas y referencias.
 - De acuerdo con el Reglamento General de Estudiantes de Pregrado – Universidad de los Andes, se tienen cuatro (4) días después de publicada la nota como plazo máximo para reclamos.
@@ -146,8 +145,8 @@ La calificación definitiva del curso se obtendrá ponderando las calificaciones
 
 ## Bibliografía
 - **Noel Kalicharan (2021). *Julia - Bit by Bit*, 1st Edition, University of the West Indies, Trinidad and Tobago. Switzerland: Springer, UTiCS. ISBN 978-3-030-73936-2**.
+- **Malcolm Sherrington (2015). *Mastering Julia*, 1st Edition, High Performance Computing, UK. UK: Packt Publishing. ISBN 978-1-78355-331-0**.
 - Ivo Balbaert (2015). *Getting Started with Julia Programming*, 1st Edition, University of Antwerp, Belgium. UK: Packt Publishing. ISBN 978-1-78328-479-5.
 - Sandeep Nagar (2017). *Beginning Julia Programming: For Engineers and Scientists*, 1st Edition, USA. USA: Springer Apress. ISBN 978-1-4842-3171-5.
 - Gerson Ferreira (2016). *Introduction to Computational Physics with Examples in Julia*, Institute of Physics, Federal University of Uberlândia, Brazil. DOI 10.13140/RG.2.2.33138.30401.
 - Ivo Balbaert, Avik Sengupta & Malcolm Sherrington (2016). *Julia: High Performance Programming*, 1st Edition, University of Antwerp, Belgium. UK: Packt Publishing. ISBN 978-1-78712-570-4.
-- Malcolm Sherrington (2015). *Mastering Julia*, 1st Edition, High Performance Computing, UK. UK: Packt Publishing. ISBN 978-1-78355-331-0.
