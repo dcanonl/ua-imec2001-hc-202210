@@ -1,0 +1,246 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# IMEC2201 Herramientas Computacionales \n",
+    "## Semana 1: Introducción\n",
+    "### Clase 1: Configuración Espacio de Trabajo\n",
+    "\n",
+    "Universidad de los Andes — Marzo 28, 2022.\n",
+    "\n",
+    "---\n",
+    "\n",
+    "## TABLA DE CONTENIDO\n",
+    "\n",
+    "### Sección 1: Verificación Instalación Julia [→](#section1)\n",
+    "- 1.1. Primer Código\n",
+    "- 1.2. Un Poco Más Allá\n",
+    "\n",
+    "### Sección 2: Vistazo a la Clase 2 [→](#section2)\n",
+    "- 2.1. Filtro Datos Hormiga de Irradiancia\n",
+    "\n",
+    "### Sección 3: Configuración del Sistema\n",
+    "- 3.1. Inversores\n",
+    "- 3.2. Módulos FV\n",
+    "- 3.3. Configuración de Arreglos FV\n",
+    "___"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<a id=\"section1\"></a>\n",
+    "# Sección 1: Verificación Instalación Julia"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 1.1. Primer Código"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello World!\n"
+     ]
+    }
+   ],
+   "source": [
+    "println(\"Hello World!\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 1.2. Un Poco Más Allá"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "stdin> Nelson\n",
+      "¿Cuál es tu nombre?: \n",
+      "Hola, Nelson. ¡Bienvenido/a al curso IMEC2001!\n"
+     ]
+    }
+   ],
+   "source": [
+    "#= \n",
+    "Definimos la función 'greet_to_IMEC2001' que\n",
+    "pregunta por un nombre y devuelve un saludo\n",
+    "con la bienvenida al curso\n",
+    "=#\n",
+    "function greet_to_IMEC2001()\n",
+    "    print(\"¿Cuál es tu nombre?: \")\n",
+    "    name = readline()\n",
+    "    println(\"\\nHola, $name. ¡Bienvenido/a al curso IMEC2001!\")\n",
+    "end\n",
+    "\n",
+    "greet_to_IMEC2001()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# 2. Vistazo a la Clase 2\n",
+    "\n",
+    "**¡Importante!** Note que la carpeta `week1` contiene dos archivos: `Project.toml` y `Manifest.toml`. Estos configuran el *ambiente* de trabajo y facilitan el manejo de librerías.\n",
+    "\n",
+    "Para inicializar el ambiente desde el terminal, ejecute lo siguiente:\n",
+    "\n",
+    "```shell\n",
+    "$ (v1.7) pkg > activate .\n",
+    "$ (week1) pkg> instantiate\n",
+    "```\n",
+    "\n",
+    "**Nota:** Para acceder al Pkg REPL, escriba el corchete derecho `]` en el Julia REPL. Note que el REPL cambie de color de verde (Julia REPL) a azul (Pkg REPL). Una vez ejecutado el código `activate .`, el prefijo entre paréntesis que indica el ambiente activo, cambia de `v1.7`a `week1`.\n",
+    "\n",
+    "O, desde Jupyter Notebook, ejecute:\n",
+    "\n",
+    "```julia\n",
+    "$ using Pkg\n",
+    "$ Pkg.activate()\n",
+    "$ Pkg.instantiate()\n",
+    "```\n",
+    "\n",
+    "**Nota:** La activación del ambiente <font color=\"#FF5733\">*precompila*</font> las librerías por lo que puede tardar un momento su ejecución completa.\n",
+    "\n",
+    "<div class=\"alert alert-block alert-info\">\n",
+    "    \n",
+    "<i class=\"fa fa-info-circle\" aria-hidden=\"true\"></i>\n",
+    "Puede obtener más información en la documentación oficial de la librería [`Pkg.jl`](https://pkgdocs.julialang.org/v1/environments/) y en el documento dando clic [aquí](https://towardsdatascience.com/how-to-setup-project-environments-in-julia-ec8ae73afe9c).\n",
+    "</div>"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "\u001b[32m\u001b[1m  Activating\u001b[22m\u001b[39m project at `~/Documents/GitHub/ua-imec2001-hc-202210/content/week1`\n"
+     ]
+    }
+   ],
+   "source": [
+    "using Pkg\n",
+    "Pkg.activate(pwd())\n",
+    "Pkg.instantiate()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "\u001b[32m\u001b[1m      Status\u001b[22m\u001b[39m `~/Documents/GitHub/ua-imec2001-hc-202210/content/week1/Project.toml`\n",
+      " \u001b[90m [91a5bcdd] \u001b[39mPlots v1.27.3\n"
+     ]
+    }
+   ],
+   "source": [
+    "Pkg.status()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<a id=\"section21\"></a>\n",
+    "## <font color=\"#004D7F\"> 2.1. _k_-fold Cross Validation</font>"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "El método de validación cruzada de _k-fold_ implica dividir el conjunto de datos en _k_-particiones, también llamados _fold_. Cada subconjunto se mantiene mientras el modelo se entrena en todos los demás particiones. Este proceso se repite hasta que se determina la precisión para cada instancia en el conjunto de datos, y se proporciona una estimación de precisión general. Es un método robusto para estimar la precisión, y el tamaño de _k_ puede ajustar la cantidad de sesgo en la estimación, con valores populares establecidos en 5 y 10. \n",
+    "\n",
+    "Puede ver que informamos tanto la media como la desviación estándar de la medida de rendimiento. Al resumir las medidas de rendimiento, es una buena práctica resumir la distribución de las medidas, en este caso suponiendo una distribución gaussiana del rendimiento (un supuesto muy razonable) y registrando la desviación estándar y media."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Accuracy: 77.60% (5.16%)\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Evaluate using Cross Validation\n",
+    "???"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<div class=\"alert alert-block alert-info\">\n",
+    "    \n",
+    "<i class=\"fa fa-info-circle\" aria-hidden=\"true\"></i>\n",
+    "Puede obtener más información en la documentación oficial de Scikit-Learn sobre la clase [`KFold`](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html?highlight=kfold#sklearn.model_selection.KFold).\n",
+    "</div>"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Julia 1.7.2",
+   "language": "julia",
+   "name": "julia-1.7"
+  },
+  "language_info": {
+   "file_extension": ".jl",
+   "mimetype": "application/julia",
+   "name": "julia",
+   "version": "1.7.2"
+  },
+  "toc": {
+   "base_numbering": 1,
+   "nav_menu": {},
+   "number_sections": false,
+   "sideBar": true,
+   "skip_h1_title": true,
+   "title_cell": "Table of Contents",
+   "title_sidebar": "Contents",
+   "toc_cell": false,
+   "toc_position": {},
+   "toc_section_display": true,
+   "toc_window_display": false
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
