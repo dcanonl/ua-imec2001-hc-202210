@@ -66,6 +66,7 @@ Este curso aporta en el desarrollo de las siguientes **Metas de Aprendizaje**:
 
 ## Contenido
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Existen muchos lenguajes de programación que pueden ser utilizados para modelar sistemas mecánicos. La decisión sobre cuál es el más adecuado para un determinado problema depende de muchos factores: experiencia previa, velocidad de implementación y ejecución, comunidades de soporte, librerías disponibles o preferencias personales, entre muchos otros. 
 
 Este no es un curso de programación ni es específico a ningún lenguaje. El estudiante puede seleccionar el lenguaje que considere más atractivo. A lo largo del semestre se presentarán varios lenguajes señalando sus ventajas y desventajas. 
@@ -83,6 +84,8 @@ Este no es un curso de programación ni es específico a ningún lenguaje. El es
 
 
 =======
+=======
+>>>>>>> Stashed changes
 Existen muchos lenguajes de programación que pueden ser utilizados para modelar sistemas mecánicos. Aunque la decisión sobre cuál es el más adecuado para un determinado problema depende de muchos factores, en el curso se manejará [Julia](https://julialang.org/) por su velocidad de implementación y ejecución, comunidades de soporte, librerías disponibles, entre otros. Además, la experiencia previa de [Python](https://github.com/JuliaPy/PyCall.jl), [R](https://cran.r-project.org/web/packages/JuliaCall/readme/README.html]) y [MATLAB](https://github.com/JuliaInterop/MATLAB.jl) serán de utilidad pues Julia permite una fácil integración con estos y otros más lenguajes de programación.
 
 **Nota:** Este no es un curso de programación ni es específico a ningún lenguaje. Aunque el enfoque está en Julia, el estudiante puede seleccionar el lenguaje que considere más atractivo.
@@ -98,6 +101,9 @@ Existen muchos lenguajes de programación que pueden ser utilizados para modelar
 |   6   | 9 — 13/May     | Optimización (Minimizar costo de operación de sistema de bombeo)                        |
 |   7   | 16 — 20/May    | ODEs (dinámica, e.g., péndulos)                                                         |
 |   8   | 23 — 27/May    | FFT (señal a partir de datos de péndulos y audio)                                       |
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 ## Dedicación de Tiempo
