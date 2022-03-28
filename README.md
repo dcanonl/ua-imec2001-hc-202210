@@ -88,13 +88,13 @@ El curso tiene una carga académica de dos (2) créditos correspondientes a una 
 
 |   Actividad              |   Horas de Dedicación     |
 |:------------------------:|:-------------------------:|
-|   Clase síncrona         |   3.5                     |
+|   Clase síncrona         |   2.5                     |
 |   Trabajo individual     |   9.5                     |
 
 El estudiante es el responsable de su propio proceso de aprendizaje y de distribuir de manera autónoma y responsable los recursos disponibles.
 
 ## Logística
-El material del curso será publicado en Bloque Neón antes del inicio de cada clase (i.e., 2:00pm cada lunes y miércoles). Cada semana es un nuevo *capítulo* que incluye:
+El material del curso será publicado en GitHub y direccionado desde Bloque Neón antes del inicio de cada clase (i.e., 2:00pm cada lunes y miércoles). Cada semana es un nuevo *capítulo* que incluye:
 
 - Lecturas.
 - Cuadernos interactivos (*Jupyter Notebook*).
