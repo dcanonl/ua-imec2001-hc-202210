@@ -65,8 +65,6 @@ Este curso aporta en el desarrollo de las siguientes **Metas de Aprendizaje**:
 	- 7.2. Aplica el conocimiento, habilidades y actitudes adquiridas de manera autónoma para resolver problemas de Ingeniería Mecánica.
 
 ## Contenido
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 Existen muchos lenguajes de programación que pueden ser utilizados para modelar sistemas mecánicos. La decisión sobre cuál es el más adecuado para un determinado problema depende de muchos factores: experiencia previa, velocidad de implementación y ejecución, comunidades de soporte, librerías disponibles o preferencias personales, entre muchos otros. 
 
 Este no es un curso de programación ni es específico a ningún lenguaje. El estudiante puede seleccionar el lenguaje que considere más atractivo. A lo largo del semestre se presentarán varios lenguajes señalando sus ventajas y desventajas. 
@@ -81,11 +79,6 @@ Este no es un curso de programación ni es específico a ningún lenguaje. El es
 8. FFT - datos de péndulos? Audio?
 
 ## Calendario
-
-
-=======
-=======
->>>>>>> Stashed changes
 Existen muchos lenguajes de programación que pueden ser utilizados para modelar sistemas mecánicos. Aunque la decisión sobre cuál es el más adecuado para un determinado problema depende de muchos factores, en el curso se manejará [Julia](https://julialang.org/) por su velocidad de implementación y ejecución, comunidades de soporte, librerías disponibles, entre otros. Además, la experiencia previa de [Python](https://github.com/JuliaPy/PyCall.jl), [R](https://cran.r-project.org/web/packages/JuliaCall/readme/README.html]) y [MATLAB](https://github.com/JuliaInterop/MATLAB.jl) serán de utilidad pues Julia permite una fácil integración con estos y otros más lenguajes de programación.
 
 **Nota:** Este no es un curso de programación ni es específico a ningún lenguaje. Aunque el enfoque está en Julia, el estudiante puede seleccionar el lenguaje que considere más atractivo.
@@ -101,10 +94,6 @@ Existen muchos lenguajes de programación que pueden ser utilizados para modelar
 |   6   | 9 — 13/May     | Optimización (Minimizar costo de operación de sistema de bombeo)                        |
 |   7   | 16 — 20/May    | ODEs (dinámica, e.g., péndulos)                                                         |
 |   8   | 23 — 27/May    | FFT (señal a partir de datos de péndulos y audio)                                       |
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 
 ## Dedicación de Tiempo
 El curso tiene una carga académica de dos (2) créditos correspondientes a una dedicación semanal de doce (12) horas. Las horas de dedicación semanal del curso se distribuyen según la carga académica de la siguiente manera:
@@ -132,7 +121,6 @@ En Bloque Neón > Herramientas Computacionales > Foros se tienen medios centrali
 En cuanto a los talleres, estos se habilitarán al final de cada *capítulo*, es decir, a las 3:15pm de cada miércoles. El plazo límite de entrega es hasta las 23.59h del viernes de la semana siguiente a partir de su publicación.
 
 ## Evaluación
-
 Se desarrollan ocho (8) talleres a lo largo del periodo en los que se evalúa el estado de desarrollo de cada uno de los objetivos del curso:
 
 - Suposiciones para simplificar sistemas y ambientes complejos.
