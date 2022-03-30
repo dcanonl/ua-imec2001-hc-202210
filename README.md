@@ -125,7 +125,7 @@ La calificación definitiva del curso se obtendrá ponderando las calificaciones
 
 ## Repositorio
 
-Para [clonar](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository) el repositorio `cnosolar` se recomienda usar el software [GitHub Desktop](https://desktop.github.com/). La url del repositorio es: [andresgm/ua-imec2001-hc-202210](https://github.com/andresgm/ua-imec2001-hc-202210).
+Para [clonar](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository) el repositorio `ua-imec2001-hc-202210` se recomienda usar el software [GitHub Desktop](https://desktop.github.com/). La url del repositorio es: [andresgm/ua-imec2001-hc-202210](https://github.com/andresgm/ua-imec2001-hc-202210).
 
 Otra opción es desde el terminal con en el ambiente activado; para esto ejecute:
 
