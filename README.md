@@ -123,6 +123,16 @@ La calificación definitiva del curso se obtendrá ponderando las calificaciones
 - De acuerdo con el Reglamento General de Estudiantes de Pregrado – Universidad de los Andes, se tienen cuatro (4) días después de publicada la nota como plazo máximo para reclamos.
     > Capítulo VII, ART. 64. Todo estudiante que desee formular un reclamo sobre las calificaciones de cualquier evaluación o sobre la nota definitiva del curso deberá dirigirlo por escrito y debidamente sustentado al profesor responsable de la materia, dentro de los cuatro (4) días hábiles siguientes a aquel en que se dan a conocer las calificaciones en cuestión.
 
+## Repositorio
+
+Para [clonar](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository) el repositorio `cnosolar` se recomienda usar el software [GitHub Desktop](https://desktop.github.com/). La url del repositorio es: [andresgm/ua-imec2001-hc-202210](https://github.com/andresgm/ua-imec2001-hc-202210).
+
+Otra opción es desde el terminal con en el ambiente activado; para esto ejecute:
+
+```julia
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+
 ## Bibliografía
 - **Noel Kalicharan (2021). *Julia - Bit by Bit*, 1st Edition, University of the West Indies, Trinidad and Tobago. Switzerland: Springer, UTiCS. ISBN 978-3-030-73936-2**.
 - **Malcolm Sherrington (2015). *Mastering Julia*, 1st Edition, High Performance Computing, UK. UK: Packt Publishing. ISBN 978-1-78355-331-0**.
