@@ -77,7 +77,7 @@ Existen muchos lenguajes de programación que pueden ser utilizados para modelar
 |   3   | 18 — 22/Abr    | Interpolación (curva de una bomba)                                                      |
 |   4   | 25 — 29/Abr    | Raíces de ecuaciones (factor de fricción de Darcy)                                      |
 |   5   | 2 — 6/May      | Sistemas de ecuaciones (estática, e.g., cerchas)                                        |
-|   6   | 9 — 13/May     | Optimización (Minimizar costo de operación de sistema de bombeo)                        |
+|   6   | 9 — 13/May     | Optimización (minimizar costo de operación de sistema de bombeo)                        |
 |   7   | 16 — 20/May    | ODEs (dinámica, e.g., péndulos)                                                         |
 |   8   | 23 — 27/May    | FFT (señal a partir de datos de péndulos y audio)                                       |
 
